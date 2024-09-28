@@ -5,8 +5,10 @@ This project implements a basic speech recognition system using Wav2Vec2 and log
 
 ## Dataset
 The dataset consists of 10 words recorded 5 times by 4 different speakers. Each word has 5 audio samples per speaker, resulting in 200 audio files in total. 
+
 The words are:
 - apple, balloon, cloud, feather, giraffe, honey, mountain, ocean, snow, tiger
+
 The speakers are:
 - age 21, female
 - age 53, female
